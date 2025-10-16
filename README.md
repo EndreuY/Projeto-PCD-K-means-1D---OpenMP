@@ -1,0 +1,1 @@
+# Projeto-PCD-K-means-1D---OpenMP
